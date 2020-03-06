@@ -1,3 +1,3 @@
 #### 学员：郑飞
 
-![spring_sequence](C:\Users\admin\Desktop\spring_sequence.jpg)
+![spring_sequence](https://github.com/flyingzh/ispring/spring_sequence.jpg)
